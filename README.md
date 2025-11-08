@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ramiro Valdez
+## Desarrollador Web | Java & React
 
-<!--
-**RamiroValdez/RamiroValdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador enfocado en la construcción de soluciones y arquitecturas escalables. 
+Me interesa principalmente el desafio a la hora de construir una solución, las cusas, su alcance y mis limitaciones a la hora de buscar una respuesta.
+Actualmente buscando ampliar mi paradigma a nuevos entornos. 
 
-Here are some ideas to get you started:
+Stack de preferido:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java (21+)
+- Spring Boot 3
+- PostgresSQL
+- MongoDB
+- Docker
+- React
+- AWS S3
